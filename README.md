@@ -54,7 +54,7 @@
 <ul>
   <li>
     <strong>Employee Management System (MERN)</strong> - <a href="https://ems-frontend-nak7.onrender.com/">Live Demo</a> | <a href="https://github.com/abiralrajbhandari/employee-management-system">GitHub</a><br>
-    A full-stack app for task and employee management. Implemented admin controls, employee dashboards, and authentication using JWT. Faced a challenge with managing real-time data across multiple dashboards, which I solved by implementing socket-based communication.
+    A full-stack employee and task management application with separate dashboards for both administrators and employees. Administrators can create, update, and delete employees and tasks, as well as generate reports. Employees can view their assigned tasks, mark them as complete or failed, and track their progress. This project provided valuable hands-on experience in designing and implementing RESTful APIs, working with NoSQL databases (MongoDB), building interactive frontends using React, and handling user authentication.
   </li>
   <li>
     <strong>Quizify (JavaScript)</strong> - <a href="https://quizify-iota.vercel.app/">Live Demo</a> | <a href="https://github.com/abiralrajbhandari/quizify-app.git">GitHub</a><br>
