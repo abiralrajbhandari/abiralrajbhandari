@@ -89,18 +89,4 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/LeetCode_logo_white_no_text.svg" height="40" alt="LeetCode" style="margin-right: 10px; background-color: white; border-radius: 5px;" />
 </a>
 
-<h2 align="left">🤝 Let's Connect!</h2>
-<div align="left">
-  <a href="https://www.linkedin.com/in/abiral-man-rajbhandari/">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="40" alt="LinkedIn" " />
-    <img width="12" />
-  </a>
-  
-  <a href="https://www.instagram.com/_abiral_/">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" height="40" alt="Instagram"" />
-    <img width="12" />
-  </a>
-  <a href="https://www.facebook.com/abiralrajbhandari/">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" height="40" alt="Facebook" />
-  </a>
-</div>
+
