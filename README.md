@@ -15,7 +15,7 @@
 <h2>💻 Technical Skills</h2>
 
 <h3>Languages</h3>
-<div style="display: flex; gap: 12px; align-items: center;">
+<div style="display: flex; gap: 12px; align-items:center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++ logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
@@ -43,15 +43,17 @@
 
 <ul>
   <li>
-    <strong>Shopping List (JavaScript)</strong> - <a href="https://shopping-lists-two.vercel.app/">Live Demo</a> | <a href="#">GitHub</a><br>
+    <strong>Shopping List (JavaScript)</strong> - <a href="https://shopping-lists-two.vercel.app/">Live Demo</a> | <a href="https://github.com/abiralrajbhandari/shopping-lists">GitHub</a><br>
     A simple JavaScript application designed to easily manage your shopping list, created when I first started learning web development.
   </li>
+  <hr>
   <li>
     <strong>Employee Management System (MERN)</strong> - <a href="https://ems-frontend-nak7.onrender.com/">Live Demo</a> | <a href="https://github.com/abiralrajbhandari/employee-management-system">GitHub</a><br>
     A full-stack employee and task management application with separate dashboards for administrators and employees. Administrators can create, update, and delete employees and tasks, as well as generate reports. Employees can view their assigned tasks, mark them as complete or failed, and track their progress. This project provided valuable hands-on experience in designing RESTful APIs, working with MongoDB, building interactive frontends with React, and handling user authentication.
   </li>
+  <hr>
   <li>
-    <strong>Expense Tracker (MERN)</strong> - <a href="https://expense-tracker-frontend-ekor.onrender.com/login">Live Demo</a> | <a href="#">GitHub</a><br>
+    <strong>Expense Tracker (MERN)</strong> - <a href="https://expense-tracker-frontend-ekor.onrender.com/login">Live Demo</a> | <a href="https://github.com/abiralrajbhandari/expense-tracker">GitHub</a><br>
     A full-stack personal finance web application designed to help users monitor, categorize, and visualize their daily, weekly, and monthly expenses, providing clear financial summaries and insights through interactive charts.
   </li>
 </ul>
