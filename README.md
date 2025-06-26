@@ -7,7 +7,7 @@
 <h2>🎓 Education</h2>
 
 <ul>
-  <li><strong>B.E in Computer Engineering</strong> - Acme Engineering College, Purbanchal University (Expected 2026)</li>
+  <li><strong>B.E in Computer Engineering</strong> - Acme Engineering College, Purbanchal University (Running)</li>
   <li><strong>Relevant Coursework:</strong> Data Structures, Algorithms, Operating Systems, Database Management, Computer Networks</li>
 </ul>
 
@@ -53,24 +53,24 @@
 
 <ul>
   <li>
+    <strong>Shopping List (JavaScript)</strong> - <a href="https://shopping-lists-two.vercel.app/">Live Demo</a> | <a href="#">GitHub</a><br>
+    A simple JavaScript application designed to easily manage your shopping list, created when I first started learning web development.
+  </li>
+  <li>
     <strong>Employee Management System (MERN)</strong> - <a href="https://ems-frontend-nak7.onrender.com/">Live Demo</a> | <a href="https://github.com/abiralrajbhandari/employee-management-system">GitHub</a><br>
     A full-stack employee and task management application with separate dashboards for both administrators and employees. Administrators can create, update, and delete employees and tasks, as well as generate reports. Employees can view their assigned tasks, mark them as complete or failed, and track their progress. This project provided valuable hands-on experience in designing and implementing RESTful APIs, working with NoSQL databases (MongoDB), building interactive frontends using React, and handling user authentication.
   </li>
   <li>
-    <strong>Quizify (JavaScript)</strong> - <a href="https://quizify-iota.vercel.app/">Live Demo</a> | <a href="https://github.com/abiralrajbhandari/quizify-app.git">GitHub</a><br>
-    A simple JavaScript app that fetches quiz questions from an external API, calculates results, and includes next and reset features. It helped me understand asynchronous operations and API handling.
-  </li>
-  <li>
-    <strong>Weather App (React.js)</strong> - <a href="https://weather-app-react-snowy-six.vercel.app/">Live Demo</a> | <a href="https://github.com/abiralrajbhandari/weather-app.git">GitHub</a><br>
-    A dynamic React app that fetches and displays real-time weather data from an external API, built as an insightful learning project. Integrated error handling to manage unavailable data and provide fallback UI.
+    <strong>Expense Tracker (MERN)</strong> - <a href="https://expense-tracker-frontend-ekor.onrender.com/login">Live Demo</a> | <a href="#">GitHub</a><br>
+      A full-stack personal finance web application designed to help users monitor, categorize, and visualize their daily, weekly, and monthly expenses, providing clear financial summaries and insights through interactive charts.
   </li>
 </ul>
 
 <h2>🏅 Certifications</h2>
 
 <ul>
-  <li>Software Development (MERN) - Kathmandu Metropolitan City (June 2024)</li>
-  <li>Digital Marketing - Digital Gurkha Academy (January 2024)</li>
+  <li>Software Development (MERN) - Kathmandu Metropolitan City </li>
+  <li>Digital Marketing - Digital Gurkha Academy </li>
 </ul>
 
 <h2>📚 Currently Learning</h2>
@@ -83,10 +83,6 @@
   <li><strong>Cloud Computing Basics (AWS)</strong></li>
 </ul>
 
-<h2>👨‍💻 Coding Profiles</h2>
 
-<a href="https://leetcode.com/u/abiral-rajbhandari/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/LeetCode_logo_white_no_text.svg" height="40" alt="LeetCode" style="margin-right: 10px; background-color: white; border-radius: 5px;" />
-</a>
 
 
