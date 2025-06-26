@@ -51,20 +51,25 @@
 
 <h2>🚀 Projects</h2>
 
+<h2>🚀 Projects</h2>
+
 <ul>
   <li>
     <strong>Shopping List (JavaScript)</strong> - <a href="https://shopping-lists-two.vercel.app/">Live Demo</a> | <a href="#">GitHub</a><br>
     A simple JavaScript application designed to easily manage your shopping list, created when I first started learning web development.
+    <hr>
   </li>
   <li>
     <strong>Employee Management System (MERN)</strong> - <a href="https://ems-frontend-nak7.onrender.com/">Live Demo</a> | <a href="https://github.com/abiralrajbhandari/employee-management-system">GitHub</a><br>
     A full-stack employee and task management application with separate dashboards for both administrators and employees. Administrators can create, update, and delete employees and tasks, as well as generate reports. Employees can view their assigned tasks, mark them as complete or failed, and track their progress. This project provided valuable hands-on experience in designing and implementing RESTful APIs, working with NoSQL databases (MongoDB), building interactive frontends using React, and handling user authentication.
+    <hr>
   </li>
   <li>
     <strong>Expense Tracker (MERN)</strong> - <a href="https://expense-tracker-frontend-ekor.onrender.com/login">Live Demo</a> | <a href="#">GitHub</a><br>
       A full-stack personal finance web application designed to help users monitor, categorize, and visualize their daily, weekly, and monthly expenses, providing clear financial summaries and insights through interactive charts.
   </li>
 </ul>
+
 
 <h2>🏅 Certifications</h2>
 
